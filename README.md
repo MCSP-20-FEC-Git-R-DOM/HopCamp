@@ -2,6 +2,12 @@
 
 # Front End Capstone Project: Hipcamp.com Clone (Hopcamp)
 
+-Front End focused project developed over the course of two weeks to replicate the UI design of an exisiting webpage
+
+![FEC Demo 1](https://github.com/MCSP-20-FEC-Git-R-DOM/HopCamp/assets/125397922/6a527062-e95f-4e46-b8fe-858da8163e62)
+![FEC Demo 2](https://github.com/MCSP-20-FEC-Git-R-DOM/HopCamp/assets/125397922/68a786e4-664e-4559-80cd-69ef7d964ce7)
+
+
 ## Tech Stack
 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
